@@ -7,5 +7,5 @@ This repository is created to collect the assignment solutions for the subject C
 
 1. John Businge 2020/BCS/004
 2. Francis Kamuganga 2020/BCS/005
-3.
+3. Simon Peter 2020/BCS 021
 4. 
